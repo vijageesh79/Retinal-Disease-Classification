@@ -1,0 +1,32 @@
+# Virtual environments
+.venv
+.venv311
+.venv_tf
+venv/
+env/
+
+# Datasets
+dataset/
+data/
+
+# Notebooks
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+
+# MacOS
+.DS_Store
+
+# Outputs/Models
+outputs/
+models/*.h5
+models/*.pth
+models/*.pt
+models/*.onnx
